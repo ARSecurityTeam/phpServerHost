@@ -1,2 +1,6 @@
-# phpServerHost
-This script for hosting any file on php local server. (html,php,)
+# Description
+
+# clon link
+--------------------------------
+https://raw.githubusercontent.com/ARSecurityTeam/phpServerHost/main/php-server.sh
+--------------------------------
