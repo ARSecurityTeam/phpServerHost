@@ -1,6 +1,8 @@
-# Description
+
 
 # clon link
---------------------------------
-https://raw.githubusercontent.com/ARSecurityTeam/phpServerHost/main/php-server.sh
---------------------------------
+-------------------------------------------------------------
+
+wget https://raw.githubusercontent.com/ARSecurityTeam/phpServerHost/main/php-server.sh
+
+--------------------------------------------------------------
