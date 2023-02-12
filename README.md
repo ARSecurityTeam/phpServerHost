@@ -7,8 +7,6 @@
 <li>Clone `$ wget https://raw.githubusercontent.com/ARSecurityTeam/phpServerHost/main/php-server.sh` </li><br>
 <li>`$ cd phpServerHost` </li><br>
 <li>`$ chmod +x php-server.sh` </li><br>
-<li>`$ ./php-server.sh` </li><br>
-<br>
-________________________
+<li>`$ ./php-server.sh` </li>
 <br>
 <a align="centet" href="www.facebook.com/your.dad.06">Connect On Facebook </a>
