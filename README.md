@@ -3,11 +3,11 @@
 <br>
 # - Installation.
 
-<li>Install git and wget ```$ apt install php wget -y``` </li><br>
-<li>Clone ```$ wget https://raw.githubusercontent.com/ARSecurityTeam/phpServerHost/main/php-server.sh``` </li><br>
-<li>```$ cd phpServerHost``` </li><br>
-<li>```$ chmod +x php-server.sh``` </li><br>
-<li>```$ ./php-server.sh``` </li><br>
+<li>Install git and wget `$ apt install php wget -y` </li><br>
+<li>Clone `$ wget https://raw.githubusercontent.com/ARSecurityTeam/phpServerHost/main/php-server.sh` </li><br>
+<li>`$ cd phpServerHost` </li><br>
+<li>`$ chmod +x php-server.sh` </li><br>
+<li>`$ ./php-server.sh` </li><br>
 <br>
 ________________________
 <br>
